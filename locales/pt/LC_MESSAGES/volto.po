@@ -1130,6 +1130,10 @@ msgstr "Nome Curto"
 msgid "Short name"
 msgstr "Nome curto"
 
+#: components/theme/Pagination/Pagination
+msgid "Show"
+msgstr ""
+
 #: components/manage/Sidebar/Sidebar
 msgid "Shrink sidebar"
 msgstr "Encolher barra lateral"
